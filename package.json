@@ -1,0 +1,26 @@
+{
+  "name": "qa-automation-lucianagrimaldi",
+  "version": "1.0.0",
+  "description": "- Responsable, creativa y con ganas de aprender.\r - Espero adquirir conocimientos que me permitan optimizar tareas y procesos.\r - Me gusta aprender cosas nuevas para mejorar mi rendimiento.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luciana030/qa-automation-lucianagrimaldi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Luciana030/qa-automation-lucianagrimaldi/issues"
+  },
+  "homepage": "https://github.com/Luciana030/qa-automation-lucianagrimaldi#readme",
+  "devDependencies": {
+    "@types/node": "^26.6.3",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
