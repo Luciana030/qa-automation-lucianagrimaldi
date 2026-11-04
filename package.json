@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "- Responsable, creativa y con ganas de aprender.\r - Espero adquirir conocimientos que me permitan optimizar tareas y procesos.\r - Me gusta aprender cosas nuevas para mejorar mi rendimiento.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Luciana030/qa-automation-lucianagrimaldi.git"
@@ -19,7 +17,8 @@
   },
   "homepage": "https://github.com/Luciana030/qa-automation-lucianagrimaldi#readme",
   "devDependencies": {
-    "@types/node": "^26.6.3",
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^26.6.5",
     "tsx": "^4.23.15",
     "typescript": "^7.0.2"
   }
